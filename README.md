@@ -18,7 +18,7 @@ were made accordingly.
 The following steps will guide you to install and run the project at your local machine:
 
 1. Download and install Power Bi Desktop from https://www.microsoft.com/en-in/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab
-2. Download and install Microsoft SQL Sever Developers edition and MSSM from https://go.microsoft.com/fwlink/?linkid=8666623
+2. Download and install Microsoft SQL Sever Developers edition and MSSM from https://go.microsoft.com/fwlink/?linkid=866662
 3. Make sure while downloading Microsoft SQL Sever check the MSSM option, if missed anyhow download it from https://aka.ms/ssmsfullsetup
 4. Clone this github repository or download as zip.
 5. Once Everything is done, run the .pbix file. 
